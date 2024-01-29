@@ -95,12 +95,8 @@ nav {
 }
 .sliderImage {
   z-index: 1;
+  transform: scale(0.8);
 }
-.sliderImage:hover {
-  transform: scale(0.9);
-  transition: all 1.5s ease-in-out;
-}
-
 .sliderTitle {
   position: absolute;
   top: 10%;
